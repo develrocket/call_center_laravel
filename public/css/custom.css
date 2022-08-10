@@ -1,0 +1,31 @@
+.aside-menu blockquote {
+    margin-bottom: 0px;
+}
+
+.aside-menu blockquote p {
+    margin-bottom: 5px;
+}
+
+.aside-menu blockquote footer {
+    font-size: 20px;
+}
+
+.aside-menu .card {
+    margin-bottom: 10px;
+}
+
+.aside-menu .card-body {
+    padding: 10px;
+}
+
+.aside-menu-fixed .main, .aside-menu-fixed .app-footer {
+    margin-right: 0px;
+}
+
+.aside-menu-fixed .aside-menu {
+    box-shadow: -4px 0 40px #33333380;
+}
+
+.container-fluid {
+    margin-top: 30px;
+}
